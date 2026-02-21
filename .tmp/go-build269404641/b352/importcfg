@@ -1,6 +1,0 @@
-# import config
-packagefile github.com/gin-gonic/gin=/Users/ivan/Documents/Code/PlanMaker/.gobuildcache/9a/9ae03092447177a452d3f93ff52ce89c5247cf649d3421eedde18c129e7ccfd5-d
-packagefile github.com/kaoyan/server/internal/handler=/Users/ivan/Documents/Code/PlanMaker/.tmp/go-build269404641/b317/_pkg_.a
-packagefile github.com/kaoyan/server/internal/middleware=/Users/ivan/Documents/Code/PlanMaker/.gobuildcache/c8/c80427331fa173f60a66691fe58a66b5afaeb90b15c1d73d99bd2c7c86788c5b-d
-packagefile github.com/kaoyan/server/internal/pkg/response=/Users/ivan/Documents/Code/PlanMaker/.gobuildcache/85/8504e482d6b8ecb5e1da0800baff2a85853772d638cd0109dd813024aa8bd370-d
-packagefile go.uber.org/zap=/Users/ivan/Documents/Code/PlanMaker/.gobuildcache/3e/3e580be23e8d628ccbfc04676393c580f025875c0c96e44246b0df1dada36adf-d

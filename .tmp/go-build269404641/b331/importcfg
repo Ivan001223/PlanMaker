@@ -1,5 +1,0 @@
-# import config
-packagefile database/sql/driver=/Users/ivan/Documents/Code/PlanMaker/.gobuildcache/52/52760d6d85db3b6f577d6523ae7737fa8b5e91d72f627978e60861f21b604859-d
-packagefile encoding/json=/Users/ivan/Documents/Code/PlanMaker/.gobuildcache/5e/5e2f63840f223ab283f2b299cd8020c7a2d2768b54480b31a47de1fa5484aa4a-d
-packagefile fmt=/Users/ivan/Documents/Code/PlanMaker/.gobuildcache/e1/e116fe6feb096ea8e4e11c42e936eb8570814748b6014810320fe429fb6b30a9-d
-packagefile time=/Users/ivan/Documents/Code/PlanMaker/.gobuildcache/d6/d692589084b018bd1d568a956a362c6ec607b11ff651763eae6d69e4a3a3a054-d
