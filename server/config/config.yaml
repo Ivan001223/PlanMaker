@@ -1,0 +1,54 @@
+app:
+  name: kaoyan-server
+  env: development
+  port: 8080
+  cors_allowed_origins: ""  # 通过 CORS_ALLOWED_ORIGINS 环境变量设置，逗号分隔
+
+db:
+  host: 192.168.0.200
+  port: 35432
+  user: ivan
+  password: ""  # 通过 DB_PASSWORD 环境变量设置
+  name: test
+  max_open_conns: 100
+  max_idle_conns: 10
+
+redis:
+  host: 192.168.0.200
+  port: 6379
+  password: ""  # 通过 REDIS_PASSWORD 环境变量设置
+  db: 0
+
+mongodb:
+  uri: ""  # 通过 MONGO_URI 环境变量设置
+  database: kaoyan
+
+rabbitmq:
+  url: ""  # 通过 RABBITMQ_URL 环境变量设置
+
+minio:
+  endpoint: "192.168.0.200:9000"
+  access_key: ivan
+  secret_key: ""  # 通过 MINIO_SECRET_KEY 环境变量设置
+  bucket: kaoyan-pdf
+  use_ssl: false
+
+wechat:
+  app_id: ""  # 通过 WECHAT_APP_ID 环境变量设置
+  app_secret: ""  # 通过 WECHAT_APP_SECRET 环境变量设置
+
+llm:
+  api_key: ""  # 通过 LLM_API_KEY 或 DASHSCOPE_API_KEY 环境变量设置
+  base_url: "https://api.minimaxi.com/v1"
+  default_model: "MiniMax-M2.5"
+  planning_model: "MiniMax-M2.5"
+
+jwt:
+  secret: ""  # 通过 JWT_SECRET 环境变量设置 (必须设置)
+  expire_hours: 168  # 7 days
+
+pdf_service:
+  base_url: "http://localhost:8000"
+
+# 内部 API 密钥 (通过环境变量 INTERNAL_API_KEY 设置)
+internal_api_key: ""

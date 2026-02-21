@@ -1,0 +1,49 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.gemini/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Go
+server/tmp/
+server/bin/
+.tmp/
+.gotmp/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+.claude/
+*.egg
+.venv/
+venv/
+pdf-service/.venv/
+.pytest_cache/
+.deepeval/
+
+# Docker
+docker-compose.override.yml
+
+# Logs
+*.log
+logs/
+
+# Data volumes
+data/
+
+# Go local cache (macOS permission workaround)
+.gomodcache/
+.gobuildcache/
+.gopath/
