@@ -1,0 +1,13 @@
+# import config
+packagefile encoding/json=/Users/ivan/Documents/Code/PlanMaker/.gobuildcache/5e/5e2f63840f223ab283f2b299cd8020c7a2d2768b54480b31a47de1fa5484aa4a-d
+packagefile errors=/Users/ivan/Documents/Code/PlanMaker/.gobuildcache/d4/d4055bc0b360be4996991795d47188d2ebc54dae9bc4baa937713e44dc0b29f4-d
+packagefile fmt=/Users/ivan/Documents/Code/PlanMaker/.gobuildcache/e1/e116fe6feb096ea8e4e11c42e936eb8570814748b6014810320fe429fb6b30a9-d
+packagefile github.com/kaoyan/server/internal/middleware=/Users/ivan/Documents/Code/PlanMaker/.gobuildcache/c8/c80427331fa173f60a66691fe58a66b5afaeb90b15c1d73d99bd2c7c86788c5b-d
+packagefile github.com/kaoyan/server/internal/model=/Users/ivan/Documents/Code/PlanMaker/.tmp/go-build269404641/b331/_pkg_.a
+packagefile github.com/kaoyan/server/internal/pkg/dashscope=/Users/ivan/Documents/Code/PlanMaker/.gobuildcache/5c/5c5f0719b4cccf8659494016d898b0fccc9664ac233f44b98bfdc5a58636f8c6-d
+packagefile github.com/kaoyan/server/internal/pkg/wechat=/Users/ivan/Documents/Code/PlanMaker/.gobuildcache/fe/fe466e83e50aa464f5e49650c1cefab71bb9c5c953011860376410ee7f25d542-d
+packagefile github.com/kaoyan/server/internal/repository=/Users/ivan/Documents/Code/PlanMaker/.tmp/go-build269404641/b336/_pkg_.a
+packagefile go.uber.org/zap=/Users/ivan/Documents/Code/PlanMaker/.gobuildcache/3e/3e580be23e8d628ccbfc04676393c580f025875c0c96e44246b0df1dada36adf-d
+packagefile gorm.io/gorm=/Users/ivan/Documents/Code/PlanMaker/.gobuildcache/d9/d99cbddd7522ef48f6bc42689064b32ff790ff4a424ad3c137a7e96f790d5037-d
+packagefile net/http=/Users/ivan/Documents/Code/PlanMaker/.gobuildcache/51/5159301ae84e853c114369bd862988ea3cf6e7963c091f9c32cfd0236a1590fb-d
+packagefile time=/Users/ivan/Documents/Code/PlanMaker/.gobuildcache/d6/d692589084b018bd1d568a956a362c6ec607b11ff651763eae6d69e4a3a3a054-d

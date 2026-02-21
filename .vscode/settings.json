@@ -1,0 +1,12 @@
+{
+    "go.toolsEnvVars": {
+        "GOMODCACHE": "/Users/ivan/Documents/Code/PlanMaker/.gomodcache",
+        "GOCACHE": "/Users/ivan/Documents/Code/PlanMaker/.gobuildcache"
+    },
+    "gopls": {
+        "build.env": {
+            "GOMODCACHE": "/Users/ivan/Documents/Code/PlanMaker/.gomodcache",
+            "GOCACHE": "/Users/ivan/Documents/Code/PlanMaker/.gobuildcache"
+        }
+    }
+}

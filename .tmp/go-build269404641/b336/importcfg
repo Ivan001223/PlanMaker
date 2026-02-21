@@ -1,0 +1,3 @@
+# import config
+packagefile github.com/kaoyan/server/internal/model=/Users/ivan/Documents/Code/PlanMaker/.tmp/go-build269404641/b331/_pkg_.a
+packagefile gorm.io/gorm=/Users/ivan/Documents/Code/PlanMaker/.gobuildcache/d9/d99cbddd7522ef48f6bc42689064b32ff790ff4a424ad3c137a7e96f790d5037-d
